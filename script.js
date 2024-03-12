@@ -84,7 +84,7 @@ dropdowns.forEach(dropdown => {
     });
 });
 
-let isExpanded = true; 
+let isExpanded = true;
 
 const lists = document.querySelectorAll('.sidebar-list').forEach(list => {
     list.addEventListener('click', (event) => {
@@ -346,3 +346,9 @@ class Popup {
         }, 3000)
     }
 }
+
+// const clearRecent = document.querySelector('.recent-post-header > a').addEventListener('click', () => {
+//     const allPosts = document.querySelectorAll('.recent-post-container').forEach(post => {
+//         post.remove();
+//     });
+// });
