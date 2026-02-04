@@ -17,7 +17,7 @@ Klon interfejsu Reddit stworzony w czystym JavaScript.
 
 ## Uwagi
 
-Projekt zawiera tylko interfejs użytkownika. Dane postów są statyczne/mockowane.
+Projekt zawiera tylko interfejs użytkownika. Dane postów są statyczne.
 
 ## Technologie
 
